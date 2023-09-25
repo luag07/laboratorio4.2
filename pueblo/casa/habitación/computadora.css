@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
+.links{
+    text-align: left;
+}
+   
+.imagen{
+   text-align: center;
+}
+
+
+nav ul {
+
+    display: flex;
+    justify-content: center;   
+    list-style: none;
+}
+
+nav ul li a {
+    padding: 10px;
+    background-color: rgb(78, 229, 235);
+    color: black;
+    border: 1px solid rgb(0, 0, 0);
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
